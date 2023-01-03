@@ -145,7 +145,6 @@ _A Trybe é uma das principais escolas de formação de programadores do Brasil.
 ### Bloco 19: Projeto Final de Front-end
 
 - [X] 19-1: _Projeto em Grupo - App de Receitas_
-- [X] 19-1: _Projeto em Grupo - App de Receitas_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
